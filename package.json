@@ -113,7 +113,7 @@
     "es6-shim": "0.35.5",
     "file-loader": "4.2.0",
     "husky": "^3.0.9",
-    "json5": "2.1.1",
+    "json5": "2.2.2",
     "merge-jsons-webpack-plugin": "1.0.20",
     "msgpack-lite": "0.1.26",
     "postcss-cssnext": "3.1.0",
