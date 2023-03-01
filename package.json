@@ -128,7 +128,7 @@
     "style-loader": "1.0.0",
     "tap-spec": "5.0.0",
     "tape": "4.11.0",
-    "tape-run": "6.0.1",
+    "tape-run": "10.0.0",
     "to-string-loader": "1.1.5",
     "ts-loader": "6.2.1",
     "tslib": "^1.10.0",
